@@ -3,14 +3,18 @@
 ![Colo Colo es lo mas grande](https://github.com/dngz/dngz/blob/main/paparedes.png)
 
 
-Here are some ideas to get you started:
+Palmares:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏆 Copa Libertadores de America 1991
+- 🏆 Recopa Sudamericana 1992
+- 🏆 Copa Interamericana 1992
+- 🏆 33x Campeonato nacional de primera division
+- 🏆 14x Copa Chile
+- 🏆 3x Supercopa de Chile
+
+-⚽ Nuestra casa
+-🏟️ Estadio Monumental David Arellano
+
+-📅 Fecha de fundacion
+-📆 19 de abril de 1925
 
