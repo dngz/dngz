@@ -12,9 +12,7 @@ Palmares:
 - 🏆 14x Copa Chile
 - 🏆 3x Supercopa de Chile
 
--⚽ Nuestra casa
--🏟️ Estadio Monumental David Arellano
+-⚽ Nuestra casa: 🏟️ Estadio Monumental David Arellano
 
--📅 Fecha de fundacion
--📆 19 de abril de 1925
+-📅 Fecha de fundacion: 📆 19 de abril de 1925
 
