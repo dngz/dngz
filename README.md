@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Colo Colo es lo mas grande](https://github.com/dngz/dngz/blob/main/paparedes.png)
 **dngz/dngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
